@@ -22,5 +22,10 @@ EmployeeController and DepartmentController
 
 2. Once the token is generated we can access the controller endpoints by passing the authorized token in Headers
 
-Authorization  Bearer {token}
+   Authorization  Bearer **{token}**
+   
+ 
+3. Have done the validations for the input request
+ 
+4. Implemented internationalization for error messages. 
 
